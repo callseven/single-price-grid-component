@@ -46,7 +46,7 @@ main {
     border-radius: 5px 5px 0 0;
 }
 
-.join p:first-child {
+.join h1:first-child {
     font-weight: 700;
     font-size: 1.25rem;
     color: var(--Cyan);
@@ -200,7 +200,7 @@ footer a {
         background-color: white;
         border-radius: 10px 10px 0 0;
     }
-    .join p:first-child {
+    .join h1:first-child {
         font-weight: 700;
         font-size: 1.47rem;
         color: var(--Cyan);
