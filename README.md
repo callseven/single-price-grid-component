@@ -4,9 +4,12 @@ link> https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41
 
 Minha solução:
 
-https://callseven.github.io/four-card-feature-section/
+https://callseven.github.io/single-price-grid-component/
 
-![Mobile](https://user-images.githubusercontent.com/7409421/152624566-5721633d-06c0-4a82-bd17-c13ef915d76d.png)
+![Desktop](https://user-images.githubusercontent.com/7409421/153111648-db2fc0b7-c81c-4ee6-8d0b-c601b34386bb.png)
+
+![Mobile](https://user-images.githubusercontent.com/7409421/153111654-a4738918-cba5-47c9-bee0-cdb35c7a6ae2.png)
+
 
 
 
