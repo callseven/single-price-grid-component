@@ -176,7 +176,7 @@ footer a {
         width: 100%;
         margin: auto;
         /* background-color: var(--LightGray); */
-        background-color: black;
+        background-color: var(--LightGray);
     }
     main {
         width: 100%;
